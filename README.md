@@ -45,5 +45,5 @@ There is a file counter, sound effects, background music, and a defeat screen wi
 Runner Virus is optimized for PC with keyboard controls.  
 
 
-## 👥 Authors
+## 👤 Authors
 AsimaDzh 🍋
